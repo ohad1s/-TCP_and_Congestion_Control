@@ -1,0 +1,3 @@
+/home/ohad/CLionProjects/Ex4_comm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ohad/CLionProjects/Ex4_comm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ohad/CLionProjects/Ex4_comm/cmake-build-debug/CMakeFiles/Ex4_comm.dir
